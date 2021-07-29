@@ -1,4 +1,4 @@
-FROM docker.io/ubuntu:latest
+FROM docker-remote.artifacts.developer.gov.bc.ca/ubuntu:latest
 
 ENV VOLUME_PATH=/var/www/html/themes
 
